@@ -13,7 +13,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 ## Master's students:
 
 * [Roshan Lasrado](https://roshanlas.com)
-* [Rohith Pudari](https://rohith-hacker.github.io/cv/)
+* [Rohith Pudari](https://rohithpudari.github.io)
 * [Amirreza Ghorbani](https://github.com/arg1998)
 
 
