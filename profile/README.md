@@ -24,7 +24,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Alvi Mahadi](https://github.com/alvi2496) (now at [Wrapbook](https://www.wrapbook.com/))
 * [Karan Tongay](https://github.com/karantongay) (now at [ICBC](https://www.icbc.com/))
 * [Andreas Koentzen](http://www.apkc.net/) • [Github](https://github.com/k-zen) (co-supervised with Margaret-Anne Storey)
-* Matthew Ehrler  (co-supervised with Yvonne Coady)
+* Matthew Ehrler  (co-supervised with Yvonne Coady) - now at [Kinsol Research](http://kinsol.io)
 * Marvi Jokhio
 * David Cheng (co-supervised with Daniela Damian)
 * Derek Robinson (now at the [Chisel group](https://thechiselgroup.org/team/))
