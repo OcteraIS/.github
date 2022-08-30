@@ -12,17 +12,17 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 
 ## Master's students:
 
-* [Roshan Lasrado](https://roshanlas.com)
-* [Rohith Pudari](https://rohithpudari.github.io)
 * [Amirreza Ghorbani](https://github.com/arg1998)
 
 ## Undergraduate students:
 
 ## Alumni:
-* [Alvi Mahadi](https://github.com/alvi2496) (now at [Wrapbook](https://www.wrapbook.com/))
+* [Alvi Mahadi](https://github.com/alvi2496) - now at [Wrapbook](https://www.wrapbook.com/)
 * [Karan Tongay](https://github.com/karantongay) (now at [ICBC](https://www.icbc.com/))
 * [Andreas Koentzen](http://www.apkc.net/) (now at [Loka](https://loka.com) • [Github](https://github.com/k-zen) (co-supervised with Margaret-Anne Storey)
 * Matthew Ehrler  (co-supervised with Yvonne Coady) - now at [Kinsol Research](http://kinsol.io)
 * Marvi Jokhio
 * David Cheng (co-supervised with Daniela Damian)
-* Derek Robinson (now a MSc with the [Chisel group](https://thechiselgroup.org/team/))
+* Derek Robinson - now a MSc with the [Chisel group](https://thechiselgroup.org/team/)
+* [Roshan Lasrado](https://roshanlas.com)  
+* [Rohith Pudari](https://rohithpudari.github.io) - now doing a PhD with [Shurui Zhou](https://www.eecg.utoronto.ca/~shuruiz/) at UofT.
