@@ -15,6 +15,8 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Amirreza Ghorbani](https://github.com/arg1998)
 
 ## Undergraduate students:
+* [Callum Curtis](https://www.linkedin.com/in/callumcurtis/)
+
 
 ## Alumni:
 * [Alvi Mahadi](https://github.com/alvi2496) - now at [Wrapbook](https://www.wrapbook.com/)
