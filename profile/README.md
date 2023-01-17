@@ -14,6 +14,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 ## Master's students:
 
 * [Amirreza Ghorbani](https://github.com/arg1998)
+* Ahmed Musa Awon
 
 ## Undergraduate students:
 * [Callum Curtis](https://www.linkedin.com/in/callumcurtis/)
