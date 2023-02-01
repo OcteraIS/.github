@@ -9,7 +9,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 ## Phd Students
 
 * [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian)
-* Pardis Roshani 
+* 
 
 ## Master's students:
 
