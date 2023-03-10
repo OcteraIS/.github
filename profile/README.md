@@ -6,6 +6,9 @@ New students should read material in [Onboarding](https://github.com/OcteraIS/On
 
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
+## Postdocs and Visitors
+* Swapnil Hingmire
+
 ## Phd Students
 
 * [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian)
