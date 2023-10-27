@@ -22,7 +22,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
 
 ## Undergraduate students:
-* 
+* Sean Turney, Pipeline improvements for Drone Imagery (497)
 
 
 ## Alumni:
