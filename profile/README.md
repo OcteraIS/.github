@@ -16,7 +16,6 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 
 ## Master's students:
 
-* [Amirreza Ghorbani](https://github.com/arg1998)
 * [Ahmed Musa Awon](https://github.com/ahmed-musa)
 * Vivienne Zeng
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
@@ -35,4 +34,6 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * Derek Robinson - did a MSc with the [Chisel group](https://thechiselgroup.org/team/) and now working for the Drug Checking Project.
 * [Roshan Lasrado](https://roshanlas.com)  
 * [Rohith Pudari](https://rohithpudari.github.io) - now doing a PhD with [Shurui Zhou](https://www.eecg.utoronto.ca/~shuruiz/) at UofT.
-* [Callum Curtis](https://www.linkedin.com/in/callumcurtis/)
+* [Callum Curtis](https://www.linkedin.com/in/callumcurtis/) undergrad summer student
+* [Amirreza Ghorbani](https://github.com/arg1998) 
+
