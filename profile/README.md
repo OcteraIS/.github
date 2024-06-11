@@ -16,7 +16,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 
 ## Master's students:
 
-* [Ahmed Musa Awon](https://github.com/ahmed-musa)
+* [Ahmed Musa Awon](https://github.com/AwonSomeSauce)
 * Vivienne Zeng
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
 
