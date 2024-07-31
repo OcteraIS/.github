@@ -7,7 +7,8 @@ New students should read material in [Onboarding](https://github.com/OcteraIS/On
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
 ## Postdocs and Visitors
-* Swapnil Hingmire
+* [Mohsen Ghanbari](https://uwaterloo.ca/scholar/m5ghanba) - co-supervised with Maycira Costa on the SKEMA project
+* Nathan Cassee - co-supervised with Peggy Storey
 
 ## Phd Students
 
@@ -23,7 +24,6 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 ## Undergraduate students:
 * Sean Turney, Pipeline improvements for Drone Imagery (497)
 
-
 ## Alumni:
 * [Alvi Mahadi](https://github.com/alvi2496) - now at [Wrapbook](https://www.wrapbook.com/)
 * [Karan Tongay](https://github.com/karantongay) (now at BeatPort)
@@ -35,5 +35,6 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Roshan Lasrado](https://roshanlas.com)  
 * [Rohith Pudari](https://rohithpudari.github.io) - now doing a PhD with [Shurui Zhou](https://www.eecg.utoronto.ca/~shuruiz/) at UofT.
 * [Callum Curtis](https://www.linkedin.com/in/callumcurtis/) undergrad summer student
-* [Amirreza Ghorbani](https://github.com/arg1998) 
+* [Amirreza Ghorbani](https://github.com/arg1998)
+* [Swapnil Hingmire](https://iitpkd.ac.in/people/swapnilh) - now Assistant Professor at IIT Palakkad Data Science
 
