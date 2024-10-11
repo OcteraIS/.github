@@ -2,7 +2,7 @@
 
 This org hosts repositories and data for the Octera Research Group run by [@neilernst](https://neilernst.net).
 
-New students should read material in [Onboarding](https://github.com/OcteraIS/Onboarding). Prospective students [see here](https://github.com/neilernst/neilernst.github.io/blob/master/prospective).
+New students need to read material in [Onboarding](https://github.com/OcteraIS/Onboarding). Prospective students [see here](https://github.com/neilernst/neilernst.github.io/blob/master/prospective).
 
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
@@ -14,15 +14,16 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 
 * [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian)
 * [Luiz Guerra](https://github.com/LuizGuerra)
+* [Ekaba Bisong](https://ekababisong.org) 
 
 ## Master's students:
 
-* [Ahmed Musa Awon](https://github.com/AwonSomeSauce)
 * Vivienne Zeng
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
+* Piper Steffen - co-supervised with Maycira Costa (Geog/SKEMA)
 
 ## Undergraduate students:
-* Sean Turney, Pipeline improvements for Drone Imagery (497)
+
 
 ## Alumni:
 * [Alvi Mahadi](https://github.com/alvi2496) - now at [Wrapbook](https://www.wrapbook.com/)
@@ -37,4 +38,5 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Callum Curtis](https://www.linkedin.com/in/callumcurtis/) undergrad summer student
 * [Amirreza Ghorbani](https://github.com/arg1998)
 * [Swapnil Hingmire](https://iitpkd.ac.in/people/swapnilh) - now Assistant Professor at IIT Palakkad Data Science
-
+* Sean Turney, Pipeline improvements for Drone Imagery (497)
+* [Ahmed Musa Awon](https://github.com/AwonSomeSauce)
