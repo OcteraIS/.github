@@ -8,7 +8,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 
 ## Postdocs and Visitors
 * [Mohsen Ghanbari](https://uwaterloo.ca/scholar/m5ghanba) - co-supervised with Maycira Costa on the SKEMA project
-* Nathan Cassee - co-supervised with Peggy Storey
+* [Nathan Cassee](https://cassee.dev) - co-supervised with Peggy Storey
 
 ## Phd Students
 
