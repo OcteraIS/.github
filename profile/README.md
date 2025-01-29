@@ -39,4 +39,4 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Amirreza Ghorbani](https://github.com/arg1998)
 * [Swapnil Hingmire](https://iitpkd.ac.in/people/swapnilh) - now Assistant Professor at IIT Palakkad Data Science
 * Sean Turney, Pipeline improvements for Drone Imagery (497)
-* [Ahmed Musa Awon](https://github.com/AwonSomeSauce)
+* [Ahmed Musa Awon](https://github.com/AwonSomeSauce) - now at [MealSuite](https://www.mealsuite.com)
