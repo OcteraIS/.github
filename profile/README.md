@@ -12,15 +12,12 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 
 ## Phd Students
 
-* [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian)
 * [Luiz Guerra](https://github.com/LuizGuerra)
 * [Ekaba Bisong](https://ekababisong.org) 
 
 ## Master's students:
 
 * Vivienne Zeng
-* Aidan Wright - co-supervised with Maycira Costa (Geog)
-* Piper Steffen - co-supervised with Maycira Costa (Geog/SKEMA)
 
 ## Undergraduate students:
 
@@ -40,3 +37,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Swapnil Hingmire](https://iitpkd.ac.in/people/swapnilh) - now Assistant Professor at IIT Palakkad Data Science
 * Sean Turney, Pipeline improvements for Drone Imagery (497)
 * [Ahmed Musa Awon](https://github.com/AwonSomeSauce) - now at [MealSuite](https://www.mealsuite.com)
+* [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian) - now Assistant Professor at U. Oklahoma
+* Aidan Wright - co-supervised with Maycira Costa (Geog)
+
+
