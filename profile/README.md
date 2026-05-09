@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-This org hosts repositories and data for the Octera Research Group run by [@neilernst](https://neilernst.net).
+This org hosts repositories and data for the Octera Research Collective run by [@neilernst](https://neilernst.net). We are members of the [Chisel Lab](https://thechiselgroup.org/team/) at the University of Victoria CS department.
 
-New students need to read material in [Onboarding](https://github.com/OcteraIS/Onboarding). Prospective students [see here](https://github.com/neilernst/neilernst.github.io/blob/master/prospective).
+New students need to read material in [Onboarding](https://gitlab.csc.uvic.ca/research/octera/Onboarding). Prospective students [see here](https://neilernst.net/prospective.html).
 
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
@@ -16,11 +16,11 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Ekaba Bisong](https://ekababisong.org) 
 
 ## Master's students:
+* Dev Malik
 
-* Vivienne Zeng
 
 ## Undergraduate students:
-
+* [Sylvester Fratarcangeli](https://github.com/SylvesterFrat), working on data analysis for student use of AI
 
 ## Alumni:
 * [Alvi Mahadi](https://github.com/alvi2496) - now at [Wrapbook](https://www.wrapbook.com/)
@@ -39,5 +39,6 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Ahmed Musa Awon](https://github.com/AwonSomeSauce) - now at [MealSuite](https://www.mealsuite.com)
 * [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian) - now Assistant Professor at U. Oklahoma
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
+* Vivienne Zeng
 
 
