@@ -7,7 +7,6 @@ New students need to read material in [Onboarding](https://gitlab.csc.uvic.ca/re
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
 ## Postdocs and Visitors
-* [Mohsen Ghanbari](https://uwaterloo.ca/scholar/m5ghanba) - co-supervised with Maycira Costa on the SKEMA project
 * [Nathan Cassee](https://cassee.dev) - co-supervised with Peggy Storey
 
 ## Phd Students
@@ -40,5 +39,7 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian) - now Assistant Professor at U. Oklahoma
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
 * Vivienne Zeng
+* [Mohsen Ghanbari](https://uwaterloo.ca/scholar/m5ghanba) - co-supervised with Maycira Costa on the SKEMA project. Now at ALS Geoanalytics as ML Engineer.
+
 
 
