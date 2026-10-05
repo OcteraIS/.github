@@ -7,19 +7,17 @@ New students need to read material in [Onboarding](https://gitlab.csc.uvic.ca/re
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
 ## Postdocs and Visitors
-* [Nathan Cassee](https://cassee.dev) - co-supervised with Peggy Storey
 
 ## Phd Students
 
 * [Luiz Guerra](https://github.com/LuizGuerra)
 * [Ekaba Bisong](https://ekababisong.org) 
 
-## Master's students:
-* Dev Malik
+## Master's Students:
+* [Dev Malik](https://github.com/Dev-Malik)
 
 
-## Undergraduate students:
-* [Sylvester Fratarcangeli](https://github.com/SylvesterFrat), working on data analysis for student use of AI
+## Undergraduate Students:
 
 ## Alumni:
 * [Alvi Mahadi](https://github.com/alvi2496) - now at [Wrapbook](https://www.wrapbook.com/)
@@ -33,13 +31,14 @@ Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue
 * [Rohith Pudari](https://rohithpudari.github.io) - now doing a PhD with [Shurui Zhou](https://www.eecg.utoronto.ca/~shuruiz/) at UofT.
 * [Callum Curtis](https://www.linkedin.com/in/callumcurtis/) undergrad summer student
 * [Amirreza Ghorbani](https://github.com/arg1998)
-* [Swapnil Hingmire](https://iitpkd.ac.in/people/swapnilh) - now Assistant Professor at IIT Palakkad Data Science
+* [Swapnil Hingmire](https://iitpkd.ac.in/people/swapnilh) - post-doc, now Assistant Professor at IIT Palakkad Data Science
 * Sean Turney, Pipeline improvements for Drone Imagery (497)
 * [Ahmed Musa Awon](https://github.com/AwonSomeSauce) - now at [MealSuite](https://www.mealsuite.com)
-* [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (co-supervised with Daniela Damian) - now Assistant Professor at U. Oklahoma
+* [Ze Shi (Zane) Li](http://thesegalgroup.org/people/ze-shi-li/) (phd, co-supervised with Daniela Damian) - now Assistant Professor at U. Oklahoma
 * Aidan Wright - co-supervised with Maycira Costa (Geog)
 * Vivienne Zeng
-* [Mohsen Ghanbari](https://uwaterloo.ca/scholar/m5ghanba) - co-supervised with Maycira Costa on the SKEMA project. Now at ALS Geoanalytics as ML Engineer.
-
+* [Sylvester Fratarcangeli](https://github.com/SylvesterFrat), honours student working on data analysis for student use of AI
+* [Mohsen Ghanbari](https://uwaterloo.ca/scholar/m5ghanba) - post-doc co-supervised with Maycira Costa on the SKEMA project. Now at ALS Geoanalytics as ML Engineer.
+* [Nathan Cassee](https://cassee.dev) - post-doc co-supervised with Peggy Storey
 
 
