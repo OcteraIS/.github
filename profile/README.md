@@ -2,7 +2,7 @@
 
 This org hosts repositories and data for the Octera Research Collective run by [@neilernst](https://neilernst.net). We are members of the [Chisel Lab](https://thechiselgroup.org/team/) at the University of Victoria CS department.
 
-New students need to read material in [Onboarding](https://gitlab.csc.uvic.ca/research/octera/Onboarding). Prospective students [see here](https://neilernst.net/prospective.html).
+New students need to read material in [Onboarding](https://github.com/OcteraIS/Onboarding). Prospective students [see here](https://neilernst.net/prospective.html).
 
 Student theses are in the [thesis repo](https://github.com/OcteraIS/theses) (cue sad shake of the head for no more hardcopy theses ...)
 
